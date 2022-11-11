@@ -13,9 +13,9 @@ Olá, seja bem vindo ao meu perfil! Me chamo Eric Martins Vilela, atualmente est
 
 
 ### 👨‍💻 Ferramentas de Desenvolvimento
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-333333.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-333333?style=for-the-badge&logo=WebStorm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-333333?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 [![ericmvilela GitHub stats](https://github-readme-stats.vercel.app/api?username=ericmvilela&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,5 +23,6 @@ Olá, seja bem vindo ao meu perfil! Me chamo Eric Martins Vilela, atualmente est
 
 
 ### 🌎  Onde me encontrar:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ericmvilela/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ericmvilela@hotmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-333b35?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ericmvilela/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-333b35?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ericmvilela@hotmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333b35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericmv09@gmail.com)
