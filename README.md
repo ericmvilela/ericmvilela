@@ -9,7 +9,7 @@ Olá, seja bem vindo ao meu perfil! Me chamo Eric Martins Vilela, atualmente est
 ![JavaScript](https://img.shields.io/badge/JavaScript-262321?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Unity](https://img.shields.io/badge/Unity-262321?style=for-the-badge&logo=unity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-262321?style=for-the-badge&logo=mysql&logoColor=white)
-<img src="https://github.com/ericmvilela/ericmvilela/blob/main/Code%20typing-bro.svg" alt="drawing" width="300" align="right"/>
+<img src="https://github.com/ericmvilela/ericmvilela/blob/main/Code%20typing-bro.svg" alt="programmer" width="300" align="right"/>
 
 
 ### 👨‍💻 Ferramentas de Desenvolvimento
