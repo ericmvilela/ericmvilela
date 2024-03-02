@@ -20,7 +20,7 @@ Olá, seja bem vindo ao meu perfil! Me chamo Eric Martins Vilela, atualmente est
 
 [![ericmvilela GitHub stats](https://github-readme-stats.vercel.app/api?username=ericmvilela&theme=apprentice&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmvilela&layout=compact&theme=apprentice&hide=Procfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmvilela&layout=donut&theme=apprentice&hide=Procfile)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🌎  Onde me encontrar:
