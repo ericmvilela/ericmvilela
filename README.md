@@ -1,6 +1,6 @@
 # Bem vindo 🤙
 
-Olá, seja bem vindo ao meu perfil! Me chamo Eric Martins Vilela, atualmente estudo Engenharia de Computação.
+Olá, seja bem vindo ao meu perfil! Me chamo Eric, atualmente estudo Engenharia de Computação.
 
 ### 🚀  Minhas Skills
 
