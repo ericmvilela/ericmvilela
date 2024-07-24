@@ -12,12 +12,6 @@ Olá, seja bem vindo ao meu perfil! Me chamo Eric, atualmente estudo Engenharia 
 ![MySQL](https://img.shields.io/badge/MySQL-262321?style=for-the-badge&logo=mysql&logoColor=white)
 <img src="https://github.com/ericmvilela/ericmvilela/blob/main/Code%20typing-bro.svg" alt="programmer" width="300" align="right"/>
 
-
-### 👨‍💻 Ferramentas de Desenvolvimento
-![PyCharm](https://img.shields.io/badge/PyCharm-333333.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-333333?style=for-the-badge&logo=WebStorm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-333333?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
 [![ericmvilela GitHub stats](https://github-readme-stats.vercel.app/api?username=ericmvilela&theme=apprentice&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmvilela&layout=donut&theme=apprentice&hide=Procfile)](https://github.com/anuraghazra/github-readme-stats)
