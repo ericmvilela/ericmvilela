@@ -7,7 +7,8 @@ Olá, seja bem vindo ao meu perfil! Me chamo Eric, atualmente estudo Engenharia 
 ![Python](https://img.shields.io/badge/Python-262321?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-262321?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-262321?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-262321?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-262321?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-262321?style=for-the-badge&logo=typescript&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-262321?style=for-the-badge&logo=unity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-262321?style=for-the-badge&logo=mysql&logoColor=white)
 <img src="https://github.com/ericmvilela/ericmvilela/blob/main/Code%20typing-bro.svg" alt="programmer" width="300" align="right"/>
